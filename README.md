@@ -8,3 +8,7 @@ onSubmit (event.React.FormEvent<HTMLFORMELEMENT>
 
 object --> values
 interface --> types
+
+installation of packages in typescript 
+npm i axios @types/axios
+npm i react-router-dom @types/react-router-dom
