@@ -65,7 +65,7 @@ const Login: React.FC = () => {
           </button>
         </form>
         <div className="mt-4 bg-light p-2">
-          <p>{JSON.stringify(state.user)}</p>
+          <p>{JSON.stringify(state.user)}</p> {/* JSON.stringify --> converts object to string */}
         </div>
       </div>
     </div>
